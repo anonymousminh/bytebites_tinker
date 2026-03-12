@@ -1,3 +1,9 @@
+Candidate Classes
+- Customers
+- Menus
+- Product
+- Orders
+
 Client Feature Request
 We need to build the backend logic for the ByteBites app. The system needs to manage our customers, tracking their names and their past purchase history so the system can verify they are real users.
 
